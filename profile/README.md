@@ -2,7 +2,7 @@
 
 A complementary organization to [friendly-social](https://github.com/friendly-social/).
 
-Our main repository contains a [statement](https://github.com/friendly-social/knowledge/blob/main/AI.md) **against AI** use to generate code. And **pro-AI use to research things**.
+Our main repository contains a [statement](https://github.com/friendly-social/knowledge/blob/main/AI.md) **against AI** use to generate code. And **pro-AI** use to research things.
 
 Some of our members, however, do want to contribute their time, but they either don't have enough of it, or don't have enough desire to code manually and enjoy the process.
 
